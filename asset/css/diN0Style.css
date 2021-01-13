@@ -31,7 +31,7 @@ nav i {
   top: 5px;
 }
 main {
-  background: url(/asset/Image/bg.png) repeat;
+  background: url(../../asset/Image/bg.png) repeat;
   padding-left: 190px;
 }
 dl {
@@ -127,7 +127,7 @@ h3 {
   height: 79vh;
 }
 #intro.section {
-  background: url(/asset/Image/ksy.jpg) no-repeat top
+  background: url(../../asset/Image/ksy.jpg) no-repeat top
     center/contain;
   position: relative;
 }
