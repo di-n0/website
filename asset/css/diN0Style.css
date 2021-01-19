@@ -294,6 +294,9 @@ small {
 .teal {
   background-color: #008073 !important;
 }
+.card-reveal p{
+  font-size:13px;
+}
 @media (min-width: 1200px) {
   #experience .container {
     width: 860px;
